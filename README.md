@@ -22,6 +22,20 @@ npm install
 # or
 yarn install 
 ```
+### Setup .env file
+
+
+```js
+DATABASE_URL=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GITHUB_ID=
+GITHUB_SECRET=
+NEXTAUTH_JWT_SECRET=
+NEXTAUTH_SECRET=
+```
+
+### start the app
 
 ```bash
 npm run dev
